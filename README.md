@@ -6,4 +6,6 @@ I majored in electric engineering and i'm interested in computer science. I was 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRhyankwon&count_bg=%2351DCFF&title_bg=%23014FFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Ryan's GitHub stats](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyankwon)](https://github.com/Rhyankwon/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ikissedagirl)](https://solved.ac/ikissedagirl).
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyankwon)](https://github.com/Rhyankwon/github-readme-stats) 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ikissedagirl)](https://solved.ac/ikissedagirl).
